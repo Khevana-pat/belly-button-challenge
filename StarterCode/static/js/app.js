@@ -1,8 +1,3 @@
-// let dropDown = d3.select(this);
-// console.log(dropDown);
-// let value = dropDown.property("value");
-// let DropData = Object.values(data[value]);
-
 let url = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json"
 
 // Fetch the JSON data and console log it
